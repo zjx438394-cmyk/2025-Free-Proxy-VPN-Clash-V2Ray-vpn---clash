@@ -39,6 +39,12 @@ AI 办公首选：完美解锁 ChatGPT, Claude, Midjourney 等生产力工具。
 
 <img width="1625" height="879" alt="image" src="https://github.com/user-attachments/assets/c426b02e-72ab-459e-a913-1325da77370b" />
 
+免费流量领取：
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/04e914b7-563a-495a-bae7-3545033a1f78" />
+<img width="1080" height="2187" alt="image" src="https://github.com/user-attachments/assets/4d7f3526-7603-4354-b60f-9d3279bcea3f" />
+<img width="1080" height="2155" alt="image" src="https://github.com/user-attachments/assets/110c52f9-d17f-4508-9d7e-70e615230522" />
+
+
 
 
 💡 更多详细教程：[ 点击访问我们的 Wiki 百科 获取 Clash、小火箭及 AI 解锁的深度配置指南。](https://github.com/zjx438394-cmyk/NanoCloud-High-Speed-Clash-V2ray-SingBox-Subscription/wiki)。
