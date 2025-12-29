@@ -53,3 +53,16 @@
 <div align="center">
   <sub>Keywords: NanoCloud, 机场推荐, 1元机场, 科学上网, 梯子, Clash订阅, Shadowrocket, ChatGPT解锁, 稳定机场, 2025机场推荐, 代理分享</sub>
 </div>
+
+---
+
+## 🌎 官方镜像与防止失联 (Mirror Sites)
+
+> **注意**：由于网络波动，若 GitHub 访问缓慢或图片无法显示，请访问国内高速镜像站。
+
+| 节点类型 | 访问地址 (高速直连) | 实时状态 |
+| :--- | :--- | :--- |
+| **国内高速镜像 (推荐)** | **[👉 点击进入 Gitee 镜像站](https://gitee.com/whisper-heart/NanoCloud_Network_Tools)** | 🟢 极速 |
+| **GitHub 全球站** | **[👉 当前访问页面](https://github.com/zjx438394-cmyk/2025-Free-Proxy-VPN-Clash-V2Ray-vpn---clash)** | 🟡 波动 |
+
+---
